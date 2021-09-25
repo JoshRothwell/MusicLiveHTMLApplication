@@ -1,0 +1,53 @@
+{
+  "music": [
+    {
+      "MusicId": 1,  
+      "Name": "All I Need",
+      "Artist": "Slushii",
+      "Platform": "Spotify",
+      "CopyrightStatus": "Free"
+    },
+    {
+      "MusicId": 2, 
+      "Name": "Wake Up",
+      "Artist": "Grant, Jeneau",
+      "Platform": "Spotify",
+      "CopyrightStatus": "Free"
+    },
+    {
+      "MusicId": 3, 
+      "Name": "Hero",
+      "Artist": "Monstercat",
+      "Platform": "Spotify",
+      "CopyrightStatus": "Licenced"
+    },
+    {
+      "MusicId": 4, 
+      "Name": "Fashion",
+      "Artist": "Electronic House Background",
+      "Platform": "Soundcloud",
+      "CopyrightStatus": "Licenced"
+    },
+    {
+      "MusicId": 5, 
+      "Name": "ANtarticbreeze",
+      "Artist": "Prometheus",
+      "Platform": "Soundcloud",
+      "CopyrightStatus": "Free"
+    },
+    {
+      "MusicId": 6, 
+      "Name": "Riders On The Storm",
+      "Artist": "Wareika",
+      "Platform": "Soundcloud",
+      "CopyrightStatus": "Licenced"
+    },
+    {
+      "MusicId": 7, 
+      "Name": "Once Again",
+      "Artist": "Monstercat",
+      "Platform": "Spotfy",
+      "CopyrightStatus": "Licenced"
+    }
+  ]
+}
